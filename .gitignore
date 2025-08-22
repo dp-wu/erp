@@ -391,7 +391,6 @@ zsdoc/data
 
 ### dotenv template
 .env
-!.env.sample
 
 ### PythonVanilla template
 # Byte-compiled / optimized / DLL files
@@ -873,6 +872,7 @@ FodyWeavers.xsd
 venv/
 env/
 .env*
+!.env.sample
 
 # IDE files
 .idea/
